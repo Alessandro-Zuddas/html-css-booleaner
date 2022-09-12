@@ -40,3 +40,26 @@ th{
 .blue-row{
     background-color: #B1E5F2;
 }
+
+.importante{
+    font-size: 20px;
+    margin-bottom: 5px;
+}
+
+.interesse{
+    color: white;
+    font-size: 25px;
+}
+
+.uno{
+    background-image: url(../img/monitor.jpg);
+    width: 300px;
+    height: 200px;
+}
+
+.due{
+    background-image: url(../img/graph.jpg);
+    width: 300px;
+    height: 200px;
+    margin-top: 10px;
+}
