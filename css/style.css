@@ -12,7 +12,8 @@
 }
 
 .title{
-    font-size: 50px;
+    font-size: 60px;
+    font-weight: bold;
 }
 
 .didascalia{
@@ -28,4 +29,14 @@
     margin-top: 10px;
     width: 925px;
     height: 500px;
+}
+
+th{
+    width: 750px;
+    background-color:  #20A9E5;
+    color: white;
+}
+
+.blue-row{
+    background-color: #B1E5F2;
 }
