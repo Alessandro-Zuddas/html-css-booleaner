@@ -1,3 +1,4 @@
+
 #pattern-image{
     height: 175px;
     background-image: url(../img/pattern.png);
@@ -8,4 +9,23 @@
 #logo{
     height: 50px;
     margin-top: 125px;
+}
+
+.title{
+    font-size: 50px;
+}
+
+.didascalia{
+    font-size: 15px;
+    color: #808080;
+}
+
+#autore{
+    color: #20A9E5;
+}
+
+.tim-images{
+    margin-top: 10px;
+    width: 925px;
+    height: 500px;
 }
