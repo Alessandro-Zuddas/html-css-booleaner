@@ -67,3 +67,7 @@ th{
 .lista{
     padding-left: 15px;
 }
+
+#tabella-dati{
+    border-collapse: collapse;
+}
