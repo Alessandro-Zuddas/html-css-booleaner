@@ -70,4 +70,5 @@ th{
 
 #tabella-dati{
     border-collapse: collapse;
+    text-align: left;
 }
